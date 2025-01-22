@@ -36,6 +36,20 @@
 ### SQL Queries
 ![Image](https://github.com/user-attachments/assets/8b3c4093-e2df-45cf-ad3b-c114b29bfcf1)
 
+![Image](https://github.com/user-attachments/assets/7ef380e2-b5d2-4c9c-86fe-2c9e2e9c42a3)
+
+![Image](https://github.com/user-attachments/assets/695421ea-0176-44c2-90ec-bc2817ab282d)
+
+![Image](https://github.com/user-attachments/assets/30edc104-7252-4e5b-b569-45c93376c3d8)
+
+![Image](https://github.com/user-attachments/assets/3d6f79ad-30d7-4820-b541-b1754db779c4)
+
+![Image](https://github.com/user-attachments/assets/c3492d06-793d-4a89-8320-c98f8bb92b36)
+
+![Image](https://github.com/user-attachments/assets/5875d565-c9ac-4e06-9365-61508e58cb6d)
+
+![Image](https://github.com/user-attachments/assets/a688e6b8-ae8e-4620-a73b-9655270ae9fb)
+
 ### Visualization using Power BI
 ![Image](https://github.com/user-attachments/assets/c486100c-0a55-4b46-a7fb-fc9a1feb46b4)
 
