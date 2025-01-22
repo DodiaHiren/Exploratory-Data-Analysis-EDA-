@@ -33,6 +33,10 @@
 3. **Operational Insights**:
 - Order status breakdown and trends.
 
+### SQL Queries
+
+
+
 ### Visualization using Power BI
 ![Image](https://github.com/user-attachments/assets/c486100c-0a55-4b46-a7fb-fc9a1feb46b4)
 
