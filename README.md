@@ -34,8 +34,7 @@
 - Order status breakdown and trends.
 
 ### SQL Queries
-
-
+![Image](https://github.com/user-attachments/assets/8b3c4093-e2df-45cf-ad3b-c114b29bfcf1)
 
 ### Visualization using Power BI
 ![Image](https://github.com/user-attachments/assets/c486100c-0a55-4b46-a7fb-fc9a1feb46b4)
